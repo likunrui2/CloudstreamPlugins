@@ -17,7 +17,7 @@ class PgiTvProvider : MainAPI() {
 
     override var lang = "zh"
 
-    // Enable this when your provider has a main page
+    // Enable this when your provider has a main page2
     override val hasMainPage = true
 
     // This function gets called when you search for something
